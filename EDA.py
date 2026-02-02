@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 # Load data
 df = pd.read_csv(
-    "/Users/mananomura/Local/NewProductSyntheticData.csv",
+    "/Local/NewProductSyntheticData.csv",
     sep=";",
     encoding="latin1"
 )
