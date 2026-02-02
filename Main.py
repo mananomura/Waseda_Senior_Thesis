@@ -18,7 +18,7 @@ import shap
 
 # 1. Load the dataset
 data = pd.read_csv(
-    '/Users/mananomura/Local/NewProductSyntheticData.csv',
+    '/Local/NewProductSyntheticData.csv',
     sep=';',
     encoding='latin1'
 )
